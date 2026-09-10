@@ -1,0 +1,8 @@
+{
+  "name": "com.adswap.network",
+  "version": "1.0.0",
+  "displayName": "AdSwap Network SDK",
+  "description": "Official AdSwap Global Network SDK for Unity. Requires gree/unity-webview.",
+  "unity": "2020.3",
+  "dependencies": {}
+}
